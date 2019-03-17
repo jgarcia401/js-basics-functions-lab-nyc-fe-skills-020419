@@ -33,4 +33,6 @@ function calculatesFarePrice(start, destination) {
     return (feetTravelled - 400) * 0.02
   }
   
+  else if ()
+  
   }
