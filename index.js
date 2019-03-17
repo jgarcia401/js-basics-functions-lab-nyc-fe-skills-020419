@@ -37,5 +37,7 @@ function calculatesFarePrice(start, destination) {
     return 25
   }
   
-  else if (feetTravelled )
+  else if (feetTravelled > 2500) { 
+    
+    return 
   }
